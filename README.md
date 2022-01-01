@@ -16,8 +16,6 @@ This is a GitHub template, which means you can reuse it as many times as you wan
 template" button at the top of the page.
 
 ## Binamon testnet deployed address
-+ Proxy contract: 0xB412784385Ea447388E8aEd7226dF8A9e88A0C97
-+ ERC721 Token : 0x2ddFD8221D72D8375F802283Ab02cEad6863ac82
 
 ## Usage
 
